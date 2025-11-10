@@ -6,24 +6,26 @@ Para esse projeto, além de mudarmos o JSON para o JSON Server, vamos permitir o
 
 ## Informações do trabalho
 
-- Nome:
-- Matricula:
-- Proposta de projeto escolhida:
-- Breve descrição sobre seu projeto:
+- Nome: Bruno Nascimento Cunha 
+- Matricula: 905809
+- Proposta de projeto escolhida: Cadastro de Usuários no Site
+- Breve descrição sobre seu projeto: O projeto consistem em um cadastro completo de usuários no site(Listagem, Criação, Edição e Deleção)
 
 **Print dos testes da API com Postman ou similar**
 
-<< COLOQUE A IMAGEM GET AQUI >>
+![Tela  de Listagem/GET](get.jpg)
 
-<< COLOQUE A IMAGEM POST AQUI >>
+![Tela  de Cadastro/POST](post.jpg)
 
-<< COLOQUE A IMAGEM PUT AQUI >>
+![Tela  de Edição/PUT](put.jpg)
 
-<< COLOQUE A IMAGEM DELETE AQUI >>
+![Tela  de Deleção/DELETE](delete.jpg)
 
 **Print da aba NETWORK com requisições Fetch/XHR POST e GET**
 
-<<  COLOQUE A IMAGEM AQUI >>
+![Network GET](netget.jpg)
+
+![Network POST](netpost.jpg)
 
 ## **Orientações Gerais**
 

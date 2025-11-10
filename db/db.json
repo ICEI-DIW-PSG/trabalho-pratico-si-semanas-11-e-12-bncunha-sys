@@ -17,6 +17,18 @@
       "email": "marilia@rilia.com",
       "telefone": "(31)3333-3333",
       "id": 4
+    },
+    {
+      "nome": "Jose Merivaldo Santos",
+      "email": "jose.santos@temp.com",
+      "telefone": "(31)99999-2222",
+      "id": 5
+    },
+    {
+      "nome": "Joana da Silva",
+      "email": "joana.silva@temp.vom.br",
+      "telefone": "(31)98765-4321",
+      "id": 6
     }
   ],
   "tarefas": [
